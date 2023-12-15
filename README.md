@@ -8,7 +8,7 @@ In this essay, we delve into an examination of the potential correlation between
 
 ## Included in this repo
 
-Inlcuded in this repo is the jupyter notebook file that contains Python code and text. I could not upload the data because they were too large for github. I will leave links to the datasets below.
+Inlcuded in this repo is a Jupyter Notebook containing Python code, English text, graphs and maps meant for an academic audience. I could not upload the data because they were too large for Github. I will leave links to the datasets below.
 
 ## References
 
